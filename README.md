@@ -1,0 +1,4 @@
+philosophy
+==========
+
+theory-oriented programming
